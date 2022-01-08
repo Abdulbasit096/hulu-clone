@@ -15,4 +15,6 @@ const Nav = () => {
   </nav>
 };
 
+Nav.displayName = 'Nav';
+
 export default Nav;
